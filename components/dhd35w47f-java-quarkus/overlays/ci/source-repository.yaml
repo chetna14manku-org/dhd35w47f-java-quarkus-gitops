@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dhd35w47f-java-quarkus-repository
+spec:
+  url: https://github.com/chetna14manku-org/dhd35w47f-java-quarkus
